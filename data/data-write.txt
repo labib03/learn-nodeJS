@@ -1,0 +1,1 @@
+ini hasil data yang dibuat : isi dari file satu.txt
